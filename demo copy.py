@@ -10,4 +10,5 @@ clf = clf.fit(X,Y)
 
 prediction = clf.predict([[190,70,43]])
 
-print prediction 
+print prediction
+
